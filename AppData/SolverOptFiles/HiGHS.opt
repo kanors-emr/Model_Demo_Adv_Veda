@@ -1,0 +1,4 @@
+solver = ipm
+run_crossover = true
+ipm_optimality_tolerance = 1e-6
+threads = 7
